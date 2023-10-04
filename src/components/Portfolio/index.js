@@ -1,8 +1,8 @@
 import React from "react";
 import accessibilityImage from "../../assets/small/accessibilitychallenge.png";
-import javascriptquizImage from "../../assets/small/javascriptquiz.png";
+import javascriptquizImage from "../../assets/small/javascriptquiz.PNG";
 import notetakerImage from "../../assets/small/notetaker.png";
-import passwordImage from "../../assets/small/passwordgenerator.png";
+import passwordImage from "../../assets/small/passwordgenerator.PNG";
 import texteditorImage from "../../assets/small/texteditor.png";
 import weatherImage from "../../assets/small/weatherdashboard.png";
 import workdayImage from "../../assets/small/workdayscheduler.png";
@@ -160,10 +160,10 @@ function Portfolio() {
                 />
               </a>
             </div>
-            <div className="Work-Day-Scheduler">
+            <div className="job-text">
               <h4>Work Day Scheduler</h4>
               <p>
-              A simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm). This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.{" "}
+              A simple calendar application that allows a user to save events for each hour of a typical working day (9am-5pm). This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.{" "}
               </p>
             </div>
           </div>

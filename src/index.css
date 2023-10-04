@@ -52,7 +52,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-image: url("../src/assets/cover/5330558.jpg");
+  background-image: url("../src/assets/cover/5330558.png");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -116,7 +116,7 @@ header nav ul li a:hover {
 
 /* Hero Style Start */
 .hero {
-  background-image: url("../src/assets/cover/5330558.jpg");
+  background-image: url("../src/assets/cover/5330558.png");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -149,7 +149,7 @@ header nav ul li a:hover {
 
 .hero-cta p {
   font-size: 25px;
-  color: #328C83;
+  color: #feffff;
 }
 
 /* hero-cta end */
