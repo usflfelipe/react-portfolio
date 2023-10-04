@@ -19,7 +19,7 @@ function Footer() {
               <AiOutlineLinkedin />
             </li>
           </a>
-          <a href="https://www.instagram.com/usfl.felipe/">
+          <a href="https://www.instagram.com/felipe.ursini/">
             <li className="logo">
               <FaInstagram />
             </li>
