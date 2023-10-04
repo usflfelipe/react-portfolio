@@ -25,7 +25,8 @@ This project is license under MIT ![Github licence](http://img.shields.io/badge/
 
 ## Screenshots
 
-![screenshot](./src/assets/files/screenshot.png)
+![screenshot](./src/assets/files/screenshot.PNG)
+![screenshot2](./src/assets/files/screenshot2.PNG)
 
 
 ## Link 
